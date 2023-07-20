@@ -1,0 +1,25 @@
+﻿  Draw.cpp
+  Engine.cpp
+D:\VS_Projects\TWA_Project\Engine.cpp(8,44): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VS_Projects\TWA_Project\Engine.cpp(9,44): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VS_Projects\TWA_Project\Engine.cpp(11,52): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VS_Projects\TWA_Project\Engine.cpp(11,38): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Update.cpp
+  Generating Code...
+  TWA_Project.vcxproj -> D:\VS_Projects\TWA_Project\x64\Debug\TWA_Project.exe
